@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Google Speech</string>
+
+    <string name="speech_prompt">Speak Something</string>
+    <string name="speech_not_supported">Your Device is not Compatible</string>
+</resources>
